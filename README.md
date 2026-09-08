@@ -2,7 +2,7 @@
 
 A small Unsplash-style photo discovery app built with Next.js App Router.
 
-Live demo: <>
+Live demo: <https://mini-unsplash-clone-zeta.vercel.app>
 
 ## What is implemented
 
